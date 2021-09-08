@@ -1,1 +1,1 @@
-print("update script")
+print("test")
